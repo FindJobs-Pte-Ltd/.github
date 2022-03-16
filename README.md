@@ -4,7 +4,7 @@ FindJobs, a member of The Singapore Centre for Social Enterprise (raiSE) develop
 
 ## Get In Touch
 
-+65 69049612
-[sales@findjobs.com.sg](mailto:sales@findjobs.com.sg?subject=[GitHub Get In Touch])
++65 69049612  
+[sales@findjobs.com.sg](mailto:sales@findjobs.com.sg)  
 75 Ayer Rajah Crescent,
 #01-04 Singapore 139953
