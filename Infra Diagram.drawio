@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T06:32:44.459Z" agent="5.0 (Macintosh)" etag="SxIl1E8CzsSR8tbO8RuA" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T06:38:58.312Z" agent="5.0 (Macintosh)" etag="gzFdkr-Iw296HFhTJZ0x" version="18.0.2" type="github">
   <diagram id="9K7KdTEP2Leaq0f7nB3s" name="Page-1">
     <mxGraphModel dx="1266" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="280.24" y="138.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-8" value="Postico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90.24" y="72.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="51.99999999999999" y="72.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FHmfgIu3W-9fUglCBVJm-8" target="FHmfgIu3W-9fUglCBVJm-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -28,17 +28,17 @@
         <mxCell id="FHmfgIu3W-9fUglCBVJm-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-1/24/digitalocean-128.png" vertex="1" parent="1">
           <mxGeometry x="172" y="350" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.79;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FHmfgIu3W-9fUglCBVJm-10">
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FHmfgIu3W-9fUglCBVJm-10" target="FHmfgIu3W-9fUglCBVJm-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="442" y="508.5" as="sourcePoint" />
             <mxPoint x="282" y="350.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-21" value="&lt;div&gt;dashboard.findjobs.com.sg&lt;/div&gt;&lt;div&gt;dashboard.findjobs.com.sg/api&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="498.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="171.76" y="488.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="242" y="456" width="38.24" height="32.5" as="geometry" />
+          <mxGeometry x="171.76" y="450" width="38.24" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FHmfgIu3W-9fUglCBVJm-22" target="FHmfgIu3W-9fUglCBVJm-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -47,10 +47,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="112" y="456" width="38.24" height="32.5" as="geometry" />
+          <mxGeometry x="40" y="456" width="38.24" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-26" value="findjobs.com.sg" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="101.12" y="488.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="40.00000000000001" y="488.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FHmfgIu3W-9fUglCBVJm-2" target="FHmfgIu3W-9fUglCBVJm-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -67,14 +67,41 @@
         <mxCell id="FHmfgIu3W-9fUglCBVJm-29" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="564" y="29.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="150.24" y="20" width="50" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;direction=west;" vertex="1" parent="1">
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;direction=west;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="580" y="20" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="302" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-37" value="&lt;div&gt;DigitalOcean&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="60.24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="20" y="318.5" width="50" height="241.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-43" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;direction=west;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="450" y="318.5" width="50" height="241.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Store-128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="326.24" y="488.5" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_playstore_google-128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="362.24" y="486" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="313" y="482" width="90.24" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-47" value="Mobile Apps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="313.24" y="522" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FHmfgIu3W-9fUglCBVJm-46" target="FHmfgIu3W-9fUglCBVJm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="420" as="sourcePoint" />
+            <mxPoint x="370" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
