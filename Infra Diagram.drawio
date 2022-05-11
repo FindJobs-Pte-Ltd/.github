@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T06:55:46.997Z" agent="5.0 (Macintosh)" etag="cUu5ZhnVIS-efMwI0lGN" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T06:56:45.040Z" agent="5.0 (Macintosh)" etag="RH0ByrqfiQhtGUpzAvkw" version="18.0.2" type="github">
   <diagram id="9K7KdTEP2Leaq0f7nB3s" name="Page-1">
     <mxGraphModel dx="1266" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="FHmfgIu3W-9fUglCBVJm-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="359.96" y="301.25" width="27.15" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-3" value="&lt;div&gt;RDS - PostgreSql&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="407.76" y="232.75" width="60" height="30" as="geometry" />
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-3" value="&lt;div align=&quot;left&quot;&gt;RDS - PostgreSql Production&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395.76" y="235.5" width="122.24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-4" value="EC2 - Hasura/GraphQl - API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="398" y="301.25" width="120" height="30" as="geometry" />
@@ -160,6 +160,12 @@
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-76" value="E2i Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="553" y="640" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-80" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357.76" y="180" width="31.55" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-81" value="&lt;div align=&quot;left&quot;&gt;RDS - PostgreSql Staging&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="398" y="182.75" width="122.24" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
