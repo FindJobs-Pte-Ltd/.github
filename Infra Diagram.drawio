@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T06:43:03.252Z" agent="5.0 (Macintosh)" etag="q2Zrs0lU7jiLLy7SnYrR" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T06:44:09.550Z" agent="5.0 (Macintosh)" etag="RZpFOvBDYpiiT28lJfKp" version="18.0.2" type="github">
   <diagram id="9K7KdTEP2Leaq0f7nB3s" name="Page-1">
     <mxGraphModel dx="1266" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,16 +74,16 @@
           <mxGeometry x="480" y="20" width="16" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="52" width="48" height="48" as="geometry" />
+          <mxGeometry x="656" y="132.25" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-37" value="&lt;div&gt;DigitalOcean&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="360" width="60.24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="20" y="318.5" width="50" height="241.5" as="geometry" />
+          <mxGeometry x="20" y="318.5" width="20" height="241.5" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-43" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;direction=west;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="450" y="318.5" width="50" height="241.5" as="geometry" />
+          <mxGeometry x="450" y="318.5" width="20" height="241.5" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Store-128.png;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="326.24" y="488.5" width="28" height="28" as="geometry" />
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-50" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="530" y="318.5" width="50" height="241.5" as="geometry" />
+          <mxGeometry x="560" y="320.5" width="20" height="241.5" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-51" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="621.76" y="456" width="38.24" height="32.5" as="geometry" />
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-60" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;direction=west;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="768" y="318.5" width="50" height="241.5" as="geometry" />
+          <mxGeometry x="790" y="320.5" width="18" height="241.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
