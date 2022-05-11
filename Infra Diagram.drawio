@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T06:54:23.640Z" agent="5.0 (Macintosh)" etag="FAm5HtKxmp_O3uWiJIGv" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T06:55:46.997Z" agent="5.0 (Macintosh)" etag="cUu5ZhnVIS-efMwI0lGN" version="18.0.2" type="github">
   <diagram id="9K7KdTEP2Leaq0f7nB3s" name="Page-1">
     <mxGraphModel dx="1266" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,16 +62,16 @@
         <mxCell id="FHmfgIu3W-9fUglCBVJm-29" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="518" y="189.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-32" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="288" y="180" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;direction=west;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-33" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;direction=west;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="558" y="180" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="256" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-42" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="20" y="440" width="10" height="280" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Store-128.png;fillColor=none;" vertex="1" parent="1">
@@ -128,7 +128,7 @@
         <mxCell id="FHmfgIu3W-9fUglCBVJm-54" value="&lt;div&gt;SouthEast Jobseeker&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="546.24" y="560" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-60" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;direction=west;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-60" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=none;direction=west;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="790" y="440" width="10" height="280" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FHmfgIu3W-9fUglCBVJm-73" target="FHmfgIu3W-9fUglCBVJm-2">
