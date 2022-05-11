@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T07:12:26.727Z" agent="5.0 (Macintosh)" etag="u1KFiqqBBpWLNjMe0qtB" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T07:12:45.267Z" agent="5.0 (Macintosh)" etag="TLUcaxjCWBQ-b8T75CRi" version="18.0.2" type="github">
   <diagram id="9K7KdTEP2Leaq0f7nB3s" name="Page-1">
     <mxGraphModel dx="1266" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="41.11999999999999" y="606.5" width="90.24" height="40" as="geometry" />
+          <mxGeometry x="19.99999999999999" y="606.5" width="90.24" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-47" value="Mobile Apps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="41.11999999999999" y="650" width="90" height="30" as="geometry" />
@@ -267,9 +267,6 @@
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#B3B3B3;strokeWidth=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="486.88" y="455" width="203" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-120" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#B3B3B3;strokeWidth=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="447" width="400" height="293" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
