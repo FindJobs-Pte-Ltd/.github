@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T07:00:00.714Z" agent="5.0 (Macintosh)" etag="WoLlM3TpZojEzw63AKNI" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T07:00:26.329Z" agent="5.0 (Macintosh)" etag="etma-GUSK51-GBtyWN44" version="18.0.2" type="github">
   <diagram id="9K7KdTEP2Leaq0f7nB3s" name="Page-1">
     <mxGraphModel dx="1266" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="FHmfgIu3W-9fUglCBVJm-3" value="&lt;div align=&quot;left&quot;&gt;RDS - PostgreSql Production&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395.76" y="235.5" width="122.24" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FHmfgIu3W-9fUglCBVJm-4" value="EC2 - Hasura/GraphQl - API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="398" y="301.25" width="120" height="30" as="geometry" />
+        <mxCell id="FHmfgIu3W-9fUglCBVJm-4" value="&lt;div align=&quot;left&quot;&gt;EC2 - Hasura/GraphQl - API&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400.24" y="302.75" width="142" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FHmfgIu3W-9fUglCBVJm-8" value="Postico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="158" y="235.5" width="60" height="30" as="geometry" />
